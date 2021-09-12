@@ -2,14 +2,15 @@
 
 I create webbased software, applications and websites using PHP, Symfony, Javascript, VueJS, MySQL/MariaDB and some Bash. 
 
+#### 📬 Contact me...
+
+You may find me on [Xing](https://www.xing.com/profile/karsten_krohn), [LinkedIn](https://www.linkedin.com/in/krohn1/) and [Twitter](https://twitter.com/krohn).
 
 <!--
 
 #### 💬 Ask me about...
 
 Ask me about triathlon, my Zwift setup, home automation, Sonos and RaspberryPi if you have too much time left ;-)
-
-
 
 Here are some ideas to get you started:
 
