@@ -1,24 +1,10 @@
 ### Hi there, I'm Karsten 👋
 
-I create webbased software, applications and websites using PHP, Symfony, Javascript, VueJS, MySQL/MariaDB and some Bash. 
+I create software and applications using Java, Spring Boot and Co.
+I have a strong background in software architecture and developing web-based software, applications, and websites using PHP, Symfony, Javascript, VueJS, MySQL/MariaDB, and some Bash. 
+
+Currently I'm working on improving the software backend of a public transport organization located in Hamburg, Germany.
 
 #### 📬 Contact me...
 
-You may find me on [Xing](https://www.xing.com/profile/karsten_krohn), [LinkedIn](https://www.linkedin.com/in/krohn1/) and [Twitter](https://twitter.com/krohn).
-
-<!--
-
-#### 💬 Ask me about...
-
-Ask me about triathlon, my Zwift setup, home automation, Sonos and RaspberryPi if you have too much time left ;-)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+You may find me on [LinkedIn](https://www.linkedin.com/in/krohn1/), [Xing](https://www.xing.com/profile/karsten_krohn) and ~~[Twitter](https://twitter.com/krohn)~~.
